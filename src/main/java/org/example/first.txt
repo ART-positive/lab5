@@ -1,0 +1,3 @@
+help
+show
+execute_script "C:\Users\artem\OneDrive\Рабочий стол\Прога\lab52 — копия\src\main\java\org\example\first.txt"
